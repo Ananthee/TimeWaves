@@ -26,17 +26,10 @@
       <li class="active"><a href="#">Home</a></li>
 <li><a href="AboutUs">AboutUs</a></li>
 <li><a href="Contact">Contact</a></li>
-      <li class="dropdown">
-      <a href="#" data-toggle="dropdown" class="dropdown-toggle">Products <span class="caret"></span></a>
-        <ul class="dropdown-menu">
-          <li><a href="#">Sonata</a></li>
-          <li><a href="#">Titen</a></li>
-          <li><a href="#">Rollex</a></li>
-          <li><a href="#">Quartz</a></li>
-        </ul>
-        </li>
-       <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-      <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+<li><a href="Products">Products</a></li>
+ 
+       <li><a href="Register"><span class="glyphicon glyphicon-user"></span>Register</a></li>
+      <li><a href="Login"><span class="glyphicon glyphicon-log-in"></span>Login</a></li>
     </ul>
   </div>
 </nav>

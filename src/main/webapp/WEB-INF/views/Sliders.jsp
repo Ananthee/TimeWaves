@@ -14,6 +14,8 @@
     <li data-target="#myCarousel" data-slide-to="1"></li>
     <li data-target="#myCarousel" data-slide-to="2"></li>
     <li data-target="#myCarousel" data-slide-to="3"></li>
+    <li data-target="#myCarousel" data-slide-to="4"></li>
+    <li data-target="#myCarousel" data-slide-to="5"></li>
   </ol>
 
   <!-- Wrapper for slides -->
@@ -57,7 +59,27 @@
         <p>The model 4.</p>
       </div>
     </div>
+  
+  <div class="item">
+    <div class="thumbnail">
+      <img src="resources/img6.jpg" width="30%" height="25%" >
+      </div>
+      <div class="carousel-caption" align="right">
+        <h3>Model 4</h3>
+        <p>The model 4.</p>
+      </div>
+    </div>
+    <div class="item">
+    <div class="thumbnail">
+      <img src="resources/collectn.jpg" width="30%" height="25%" >
+      </div>
+      <div class="carousel-caption" align="right">
+        <h3>Model 4</h3>
+        <p>The model 4.</p>
+      </div>
+    </div>
   </div>
+  
 
   <!-- Left and right controls -->
   <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
